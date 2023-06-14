@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dipesh Bhatta.I received my B-tech degree in Computer science and engineering from NIT, Rourkela.
 - 👀 I’m interested in Tech, Programming, Projects Architecture Design......
-- 🌱 I’m currently learning JAVA.
+- 🌱 I’m currently learning JAVA and React.
 - 📫 ping me at dipeshbhatta4@gmail.com or  [LINKEDIN PAGE](https://linkedin.com/in/dipeshbhatta4/)
 
 <!---
